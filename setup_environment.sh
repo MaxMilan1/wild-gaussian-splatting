@@ -48,7 +48,7 @@ wget https://download.europe.naverlabs.com/ComputerVision/DUSt3R/DUSt3R_ViTLarge
 pip install -r ../requirements.txt
 
 # #setup submodules
-# pip install gaussian-splatting/submodules/diff-gaussian-rasterization/
-# pip install gaussian-splatting/submodules/simple-knn/
+# pip install gaussian_splatting/submodules/diff-gaussian-rasterization/
+# pip install gaussian_splatting/submodules/simple-knn/
 
 echo "Environment setup is complete."
